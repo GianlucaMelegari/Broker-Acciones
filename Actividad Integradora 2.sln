@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad Integradora 2", "Actividad Integradora 2.csproj", "{90710B96-71ED-46D5-AC35-108B8F03F483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90710B96-71ED-46D5-AC35-108B8F03F483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90710B96-71ED-46D5-AC35-108B8F03F483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90710B96-71ED-46D5-AC35-108B8F03F483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90710B96-71ED-46D5-AC35-108B8F03F483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36285A7-DDEE-4192-9E43-4176E65C738F}
+	EndGlobalSection
+EndGlobal

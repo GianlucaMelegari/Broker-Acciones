@@ -1,0 +1,16 @@
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\bin\Debug\net8.0-windows\Actividad Integradora 2.exe
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\bin\Debug\net8.0-windows\Actividad Integradora 2.deps.json
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\bin\Debug\net8.0-windows\Actividad Integradora 2.runtimeconfig.json
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\bin\Debug\net8.0-windows\Actividad Integradora 2.dll
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\bin\Debug\net8.0-windows\Actividad Integradora 2.pdb
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad_Integradora_2.Form1.resources
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.csproj.GenerateResource.cache
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.dll
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\refint\Actividad Integradora 2.dll
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.pdb
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\Actividad Integradora 2.genruntimeconfig.cache
+C:\Users\gianl\OneDrive\Escritorio\Repo GH\Actividad Integradora 2\obj\Debug\net8.0-windows\ref\Actividad Integradora 2.dll
